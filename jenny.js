@@ -1,1 +1,1 @@
-cy.get()
+cy.get().should('be.viisble')
